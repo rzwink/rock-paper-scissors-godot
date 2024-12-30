@@ -1,0 +1,32 @@
+# Godot-generated files and directories
+.import/
+.export/
+
+# Godot editor settings (personalized per user)
+*.godot
+
+# Export templates
+export.cfg
+export_presets.cfg
+
+# User-specific settings
+.editor_settings-*
+
+# Temporary files
+*.tmp
+*.swap
+*.bak
+*.old
+*.orig
+
+# OS or editor specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Cache files
+.cache/
+
+# Godot 4+ specific ignores
+.godot/
+/android/
